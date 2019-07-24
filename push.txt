@@ -7,3 +7,4 @@ new conflicts
 new conflicts dev
 try conflicts
 
+idea devlop
