@@ -3,4 +3,5 @@ another branch
 dev
 try conflicts-dev
 dev-new
+new conflicts dev
 try conflicts
